@@ -13,7 +13,7 @@ sudo apt-get install nginx
 <p align="center"><img src="nginx/2-installnginx.JPG" width=500></p>
 
 ## 2. Setting Up a Node.js Server
-2.1 reate a simple Node.js server. We’ll start by initiating a project and installing the Express package:
+2.1 Create a simple Node.js server. We’ll start by initiating a project and installing the Express package:
 ```sh
 mkdir node-demo && cd node-demo
 ```
