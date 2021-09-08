@@ -22,11 +22,12 @@ mkdir node-demo && cd node-demo
 ```sh
 npm init -y
 ```
+<p align="center"><img src="nginx/3.JPG" width=500></p>
 
 ```sh
 npm i express
 ```
- <p align="center"><img src="nginx/3.JPG" width=500></p>
+ 
  
 2.2 Create a file called server.js, with the following contents:
  <p align="center"><img src="nginx/4.JPG" width=500></p>
