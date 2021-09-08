@@ -17,7 +17,7 @@ sudo apt-get install nginx
 ```sh
 mkdir node-demo && cd node-demo
 ```
- <p align="center"><img src="nginx/3.JPG" width=500></p>
+
 
 ```sh
 npm init -y
@@ -26,11 +26,12 @@ npm init -y
 ```sh
 npm i express
 ```
+ <p align="center"><img src="nginx/3.JPG" width=500></p>
+ 
+2.2 Create a file called server.js, with the following contents:
  <p align="center"><img src="nginx/4.JPG" width=500></p>
  <p align="center"><img src="nginx/5.JPG" width=500></p>
  
-2.2 Create a file called server.js, with the following contents:
-
 ```sh
 const express = require('express')
 ```
