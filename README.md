@@ -103,6 +103,7 @@ server {
 
 3.4 save the file and type the following to restart NGINX
 <p align="center"><img src="nginx/9.JPG" width=500></p>
+
 ```sh
 sudo service nginx restart
 ```
@@ -112,6 +113,7 @@ node server.js
 ```
 <p align="center"><img src="nginx/10.JPG" width=500></p>
 
+## successfully installed You will see the word Hello world.
 
 <p align="center"><img src="nginx/11.JPG" width=500></p>
 
