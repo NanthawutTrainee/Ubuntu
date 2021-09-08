@@ -34,22 +34,9 @@ npm i express
  
 ```sh
 const express = require('express')
-```
-
-```sh
 const app = express()
-```
-
-```sh
 const port = 3000
-```
-
-```sh
 app.get('/', (req, res) => res.send('Hello World!'))
-```
-
-
-```sh
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 ```
 
@@ -63,7 +50,8 @@ node server.js
  <p align="center"><img src="nginx/7.JPG" width=500></p>
  
 ## 3. Configuring NGINX
-	3.1 open up the NGINX default site config file
+3.1 open up the NGINX default site config file
+
 ```sh
 sudo nano /etc/nginx/sites-available/default
 ```
