@@ -107,10 +107,12 @@ server {
 sudo service nginx restart
 ```
 
+<p align="center"><img src="nginx/10.JPG" width=500></p>
+
 ```sh
 node server.js
 ```
-<p align="center"><img src="nginx/10.JPG" width=500></p>
+
 
 ## successfully installed You will see the word Hello world.
 
