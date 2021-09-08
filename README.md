@@ -63,7 +63,7 @@ node server.js
  <p align="center"><img src="nginx/7.JPG" width=500></p>
  
 ## 3. Configuring NGINX
-	## 3.1 open up the NGINX default site config file
+	3.1 open up the NGINX default site config file
 ```sh
 sudo nano /etc/nginx/sites-available/default
 ```
