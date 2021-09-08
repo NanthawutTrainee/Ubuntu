@@ -5,6 +5,7 @@
 sudo apt-get update
 
 ```
+ <p align="center"><img src="nginx/1.jpg" width=500></p>
 
 ```sh
 sudo apt-get install nginx 
