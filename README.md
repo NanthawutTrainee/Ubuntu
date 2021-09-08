@@ -49,6 +49,9 @@ app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
 2.3 You can start the server by running 'node server.js'
 
+```sh
+node server.js
+```
 ## 3. Configuring NGINX
 	## 3.1 open up the NGINX default site config file
 ```sh
