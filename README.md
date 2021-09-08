@@ -31,7 +31,6 @@ npm i express
  
 2.2 Create a file called server.js, with the following contents:
  <p align="center"><img src="nginx/4.JPG" width=500></p>
- <p align="center"><img src="nginx/5.JPG" width=500></p>
  
 ```sh
 const express = require('express')
