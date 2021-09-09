@@ -16,21 +16,40 @@ sudo apt-get install nginx
 
 ```sh
 curl -sL https://deb.nodesource.com/setup_14.x -o nodesource_setup.sh 
+```
+<p align="center"><img src="photo/test1.JPG" width=500></p>
+
+```sh
 sudo bash nodesource_setup.sh 
+```
+<p align="center"><img src="photo/test2.JPG" width=500></p>
+
+```sh
 sudo apt-get install gcc g++ make -y 
+```
+<p align="center"><img src="photo/test3.JPG" width=500></p>
+
+```sh
 curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | gpg --dearmor | sudo tee /usr/share/keyrings/yarnkey.gpg >/dev/null
+```
+<p align="center"><img src="photo/test4.JPG" width=500></p>
+
+```sh
 echo "deb [signed-by=/usr/share/keyrings/yarnkey.gpg] https://dl.yarnpkg.com/debian stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
 ```
+<p align="center"><img src="photo/test5.JPG" width=500></p>
 
 ## 3. Install yarn
 
 ```sh
 sudo apt-get update && sudo apt-get install yarn
 ```
+<p align="center"><img src="photo/test6.JPG" width=500></p>
 
 ```sh
 sudo apt install build-essential
 ```
+<p align="center"><img src="photo/test7.JPG" width=500></p>
 
 ## 4. Clone api on GitHub to ubuntu server
 4.1 Set up git config
@@ -42,20 +61,30 @@ git config --global user.name [your username of GitHub Account]
 ```sh
 git config --global user.email [your email of GitHub Account]
 ```
+<p align="center"><img src="photo/test8.JPG" width=500></p>
 
 4.2 Clone api repository on github and type your username and access token of your git account
 
 ```sh
 git clone https://github.com/virus08/dwapi.git
 ```
+<p align="center"><img src="photo/test10.JPG" width=500></p>
 
 4.3 cd dwapi/
-4.4 npm install .
+<p align="center"><img src="photo/test11.JPG" width=500></p>
+
+4.4 sudo npm install.
+
+
 4.5 Install pm2 for run production
+
+
+<p align="center"><img src="photo/test13.JPG" width=500></p>
 
 ```sh
 sudo npm install pm2@latest -g
 ```
+<p align="center"><img src="photo/test12.JPG" width=500></p>
 
 ## 5. Configuring NGINX
 5.1 open up the NGINX default site config file
@@ -101,11 +130,12 @@ server {
 sudo nginx -t
 ```
 
-<p align="center"><img src="nginx/10.JPG" width=500></p>
+<p align="center"><img src="photo/test15.JPG" width=500></p>
 
 ```sh
 sudo service nginx restart
 ```
+<p align="center"><img src="photo/test16-2.JPG" width=500></p>
 
 ## 6. Install ssl certificate on nginx server for run HTTPs
 6.1 Create certificate and key
@@ -113,6 +143,7 @@ sudo service nginx restart
 ```sh
 sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout vstecs.key -out vstecs.crt
 ```
+<p align="center"><img src="photo/test17.JPG" width=500></p>
 
 6.2 Input certificate data
 6.3 Check certificate file
@@ -134,13 +165,15 @@ mkdir ssl
 cd ssl
 cp /home/ubuntu/vstecs.* .
 ```
+<p align="center"><img src="photo/test18.JPG" width=500></p>
 
 6.5 Create file vstecs.conf in folder conf.d
 ```sh
 cd conf.d
 nano vstecs.conf
 ```
- 
+<p align="center"><img src="photo/test19.JPG" width=500></p>
+
 ```sh
 server{
 			listen   443 ssl;
@@ -163,6 +196,7 @@ server{
 			}
 		}
 ```
+<p align="center"><img src="photo/test20.JPG" width=500></p>
 
 6.6 Check config and restart server with command 
 
@@ -170,8 +204,11 @@ server{
 nginx -t
 systemctl restart nginx
 ```
+<p align="center"><img src="photo/test21.JPG" width=500></p>
 
 6.7 Finally open https://172.16.0.106 Look at the IP Address of the machine itself.
+
+<p align="center"><img src="photo/test16-2.JPG" width=500></p>
 
 
  
