@@ -206,7 +206,7 @@ systemctl restart nginx
 ```
 <p align="center"><img src="photo/test21.JPG" width=500></p>
 
-6.7 Finally open https://172.16.0.106 Look at the IP Address of the machine itself.
+6.7 Finally open IP Address {https://172.16.0.106} Look at the IP Address of the machine itself.
 
 <p align="center"><img src="photo/test16-2.JPG" width=500></p>
 
