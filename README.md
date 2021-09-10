@@ -73,40 +73,39 @@ git clone https://github.com/virus08/dwapi.git
 ```
 <p align="center"><img src="photo/test10.JPG" width=500></p>
 
-4.3 
+4.3 Install package that use in api project
+
 ```sh
 cd dwapi/
-```
-<p align="center"><img src="photo/test11.JPG" width=500></p>
-
-4.4 npm install .
-
-```sh
 npm install .
 ```
 
-4.5 Install pm2 for run production
+<p align="center"><img src="photo/test11.JPG" width=500></p>
 
-
+4.4 Install pm2 for run production
 
 ```sh
 sudo npm install pm2@latest -g
 ```
+
+<p align="center"><img src="photo/test12.JPG" width=500></p>
+
+4.5 Install pm2 for run production
+
 ```sh
 pm2 start index.js
 ```
-<p align="center"><img src="photo/test12.JPG" width=500></p>
+
 <p align="center"><img src="photo/test13.JPG" width=500></p>
 
 ## 5. Configuring NGINX
-5.1 open up the NGINX default site config file
+5.1 Open up the NGINX default site config file
 
 ```sh
 sudo nano /etc/nginx/sites-available/default
 ```
-5.2 If you want, you can go directly to the directory and open up the config file with your favorite text editor. As you scroll down, you’ll find a server block. It looks something like this:
- 
-```sh
+If you want, you can go directly to the directory and open up the config file with your favorite text editor. As you scroll down, you’ll find a server block. It looks something like this:
+
 server {
   listen       80;
   server_name  localhost;
@@ -114,9 +113,9 @@ server {
   ....
   more config goes here
 }
-```
 
-5.3 Next, we’ll configure the server block to suit our needs. We want to configure NGINX to pass all requests through to our Node.js server. Replace the above server block with a new block as shown below:
+
+5.2 Next, we’ll configure the server block to suit our needs. We want to configure NGINX to pass all requests through to our Node.js server. Replace the above server block with a new block as shown below:
 
  <p align="center"><img src="nginx/8.JPG" width=500></p>
  
@@ -135,18 +134,19 @@ server {
   }
 ```
 
-5.4 save the file and type the following to restart NGINX
-<p align="center"><img src="nginx/9.JPG" width=500></p>
+5.3 Save the file and type the following to restart NGINX
 
 ```sh
 sudo nginx -t
 ```
 
-<p align="center"><img src="photo/test15.JPG" width=500></p>
+<p align="center"><img src="nginx/9.JPG" width=500></p>
 
 ```sh
 sudo service nginx restart
 ```
+<p align="center"><img src="photo/test15.JPG" width=500></p>
+
 <p align="center"><img src="photo/test16-2.JPG" width=500></p>
 
 ## 6. Install ssl certificate on nginx server for run HTTPs
@@ -229,7 +229,7 @@ systemctl restart nginx
 ```
 <p align="center"><img src="photo/test21.JPG" width=500></p>
 
-6.7 Finally open IP Address ( https://172.16.0.106 ) Look at the IP Address of the machine itself.
+6.7 Finally open IP Address ( https://[IP Address] ) Look at the IP Address of the machine itself.
 
 <p align="center"><img src="photo/test16-2.JPG" width=500></p>
 
