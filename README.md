@@ -1,11 +1,5 @@
-# Ubuntu
-## 1. Install the **Installation on Ubuntu** package with :
-
-```sh
-sudo apt-get update
-
-```
- <p align="center"><img src="nginx/1.JPG" width=500></p>
+# Deploy API on NGINX server
+## 1. Install the nginx package with :
 
 ```sh
 sudo apt-get install nginx 
