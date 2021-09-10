@@ -70,7 +70,10 @@ git clone https://github.com/virus08/dwapi.git
 ```
 <p align="center"><img src="photo/test10.JPG" width=500></p>
 
-4.3 cd dwapi/
+4.3 
+```sh
+cd dwapi/
+```
 <p align="center"><img src="photo/test11.JPG" width=500></p>
 
 4.4 npm install .
