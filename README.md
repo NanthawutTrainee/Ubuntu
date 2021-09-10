@@ -15,7 +15,7 @@ node -v
 git --version
 ```
 
-## 2. Set up engine
+## 2. Update Node.js to version 14
 
 ```sh
 curl -sL https://deb.nodesource.com/setup_14.x -o nodesource_setup.sh 
