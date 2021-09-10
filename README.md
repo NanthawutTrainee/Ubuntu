@@ -84,12 +84,16 @@ npm install .
 
 4.5 Install pm2 for run production
 
-<p align="center"><img src="photo/test13.JPG" width=500></p>
+
 
 ```sh
 sudo npm install pm2@latest -g
 ```
+```sh
+pm2 start index.js
+```
 <p align="center"><img src="photo/test12.JPG" width=500></p>
+<p align="center"><img src="photo/test13.JPG" width=500></p>
 
 ## 5. Configuring NGINX
 5.1 open up the NGINX default site config file
@@ -165,11 +169,22 @@ more vstecs.crt
  
 ```sh
 sudo -i
+
+```
+```sh
 cd /etc/nginx/
+```
+```sh
 mkdir ssl
+```
+```sh
 cd ssl
+
+```
+```sh
 cp /home/ubuntu/vstecs.* .
 ```
+
 <p align="center"><img src="photo/test18.JPG" width=500></p>
 
 6.5 Create file vstecs.conf in folder conf.d
