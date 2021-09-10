@@ -11,7 +11,7 @@ node -v
 ```
 
 ```sh
-gif --version
+git --version
 ```
 <p align="center"><img src="nginx/2-installnginx.JPG" width=500></p>
 
