@@ -139,13 +139,12 @@ server {
 ```sh
 sudo nginx -t
 ```
-
-<p align="center"><img src="nginx/9.JPG" width=500></p>
+<p align="center"><img src="photo/test15.JPG" width=500></p>
 
 ```sh
 sudo service nginx restart
 ```
-<p align="center"><img src="photo/test15.JPG" width=500></p>
+<p align="center"><img src="nginx/9.JPG" width=500></p>
 
 <p align="center"><img src="photo/test16-2.JPG" width=500></p>
 
