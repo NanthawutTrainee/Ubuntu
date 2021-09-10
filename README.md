@@ -1,4 +1,4 @@
-# Ubuntu
+# Deploy API on NGINX server
 ## 1. Install the **Installation on Ubuntu** package with :
 
 ```sh
@@ -73,18 +73,26 @@ git clone https://github.com/virus08/dwapi.git
 4.3 cd dwapi/
 <p align="center"><img src="photo/test11.JPG" width=500></p>
 
-4.4 sudo npm install.
+4.4 sudo apt install npm
+
+4.5 sudo npm install.
 
 
-4.5 Install pm2 for run production
+4.6 Install pm2 for run production
 
 
-<p align="center"><img src="photo/test13.JPG" width=500></p>
+<p align="center"><img src="photo/test12.JPG" width=500></p>
 
 ```sh
 sudo npm install pm2@latest -g
 ```
-<p align="center"><img src="photo/test12.JPG" width=500></p>
+<p align="center"><img src="photo/test13.JPG" width=500></p>
+
+4.7 run serve
+
+```sh
+pm2 start index.js
+```
 
 ## 5. Configuring NGINX
 5.1 open up the NGINX default site config file
@@ -206,7 +214,7 @@ systemctl restart nginx
 ```
 <p align="center"><img src="photo/test21.JPG" width=500></p>
 
-6.7 Finally open IP Address ( https://172.16.0.106 ) Look at the IP Address of the machine itself.
+6.7 Finally open IP Address ( https://[IP Address] ) Look at the IP Address of the machine itself.
 
 <p align="center"><img src="photo/test16-2.JPG" width=500></p>
 
