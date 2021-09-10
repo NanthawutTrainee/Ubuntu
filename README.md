@@ -4,6 +4,15 @@
 ```sh
 sudo apt-get install nginx 
 ```
+
+Check node.js and gif versions.
+```sh
+node -v
+```
+
+```sh
+gif --version
+```
 <p align="center"><img src="nginx/2-installnginx.JPG" width=500></p>
 
 ## 2. Set up engine
