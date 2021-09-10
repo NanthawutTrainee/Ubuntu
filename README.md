@@ -73,11 +73,13 @@ git clone https://github.com/virus08/dwapi.git
 4.3 cd dwapi/
 <p align="center"><img src="photo/test11.JPG" width=500></p>
 
-4.4 npm install .
+4.4 sudo npm install .
 
+```sh
+npm install .
+```
 
 4.5 Install pm2 for run production
-
 
 <p align="center"><img src="photo/test13.JPG" width=500></p>
 
