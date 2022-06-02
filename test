@@ -1,0 +1,1219 @@
+{
+    "@odata.context": "https://graph.microsoft.com/beta/$metadata#security/attackSimulation/simulations('e81c22e5-5e90-4391-86e5-ae67d90940b3')/report/simulationUsers",
+    "@odata.nextLink": "https://graph.microsoft.com/beta/security/attackSimulation/simulations/e81c22e5-5e90-4391-86e5-ae67d90940b3/report/simulationUsers?$skiptoken=%2bRID%3a~mkEHAMc4dtYSGwIAAAAAAA%3d%3d%23RT%3a1%23TRC%3a50%23RTD%3axUPzvXp6f3MZ8fwMCP7%2fBUxzanV1am8hKUpQVSohSXBvaGRpam9vYmxwc28A%23ISV%3a2%23IEO%3a65567",
+    "value": [
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "7f60175a-75e1-4860-aca0-80332ab36b2d",
+                "displayName": "Adisak (F&A-Collection) Panchuay",
+                "email": "Adisak@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:12Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "40a798bf-3c16-4250-82f4-4b8d1eb91e28",
+                "displayName": "Akkarawut (Solutions) Niyomyat",
+                "email": "Akkarawut@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:12Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "0a24c0f3-9acb-40b8-af52-abd153c1d176",
+                "displayName": "Amornsiri (Sales-Retail) Ngamdee",
+                "email": "Amornsiri@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:12Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "6a26d931-90a6-4ec0-938c-1b3eff8c76f5",
+                "displayName": "Anchana (Huawei) Srimaungma",
+                "email": "Anchana@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:16Z",
+                    "ipAddress": "49.230.224.220",
+                    "osPlatformDeviceDetails": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39",
+                    "browser": "Edge"
+                },
+                {
+                    "eventName": "EmailLinkClicked",
+                    "eventDateTime": "2022-05-10T10:10:36Z",
+                    "ipAddress": "49.230.224.220",
+                    "osPlatformDeviceDetails": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39",
+                    "browser": "Edge"
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "82085bdd-ee66-43c3-827c-33a8e6fe203e",
+                "displayName": "Anongwan (Product Coordinator) Riewpitak",
+                "email": "Anongwan@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:12Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "2974783a-fc2b-450e-b375-d941e79e57cf",
+                "displayName": "Apinya (Cloud) Termthanaporn",
+                "email": "Apinya@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:16Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "fe16a52c-dec2-4b8d-86b6-6b96094fe193",
+                "displayName": "Attapon (Adobe) Chotigorn",
+                "email": "Attapon@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:15Z",
+                    "ipAddress": "49.228.224.84",
+                    "osPlatformDeviceDetails": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39",
+                    "browser": "Edge"
+                },
+                {
+                    "eventName": "EmailLinkClicked",
+                    "eventDateTime": "2022-05-11T01:50:04Z",
+                    "ipAddress": "49.228.224.84",
+                    "osPlatformDeviceDetails": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39",
+                    "browser": "Edge"
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "e315db31-a425-481a-b8b3-bc3cfa8d9466",
+                "displayName": "Aung Thu Htet (Myanmar-Technical)",
+                "email": "AungThuHtet@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:13Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "07fc57f5-ed23-4027-ab6a-292c3e861d55",
+                "displayName": "Chal (IOT) Semsomboon",
+                "email": "Chal@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:13Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "c4f40253-5319-43a0-8632-0b1b5f419969",
+                "displayName": "Chandara Chea (CLM-Cambodia)",
+                "email": "ChandaraChea@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:14Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "6de7e6cc-57fa-4bf0-83d2-47cd558e2395",
+                "displayName": "Chanheang Chea (CLM-Cambodia)",
+                "email": "CheaChanheang@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:14Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "f8e17a12-77d5-4206-9a1a-de49bacc1e37",
+                "displayName": "Chanthea Mai (CLM-Cambodia)",
+                "email": "Chanthea@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:17Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "8c456480-32c5-4541-8898-172f127e113e",
+                "displayName": "Chayanisa (Product Sales) Tirahiransuk",
+                "email": "Chayanisa@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:16Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "f504ca8f-08c0-4f0a-8a0a-a216fcb8de68",
+                "displayName": "Chayapat (Solutions) Kongthong",
+                "email": "Chayapat@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:17Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "b3dce8ee-6a92-4a98-95b5-968b5f237641",
+                "displayName": "Chenda Orn (CLM-Cambodia)",
+                "email": "ChendaOrn@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:15Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "7ffc37be-3c7b-4b16-9e87-8f11c06d88e0",
+                "displayName": "Cherry Chan Myae (Myanmar-Product)",
+                "email": "CherryChanMyae@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:17Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "3b3897d8-5bd6-489e-9bfc-052c506819bd",
+                "displayName": "Chisanu (Consumer 2) Tangcharoenchaichana",
+                "email": "Chisanu@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:17Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "a41d23f0-c34f-4473-8467-39e23de44553",
+                "displayName": "Chowalit (BD North Solutions) Katington",
+                "email": "Chowalit@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:22Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "f664313e-ae0d-4fb2-a06d-cf2134e22cf7",
+                "displayName": "Dara RIM (CLM-Cambodia)",
+                "email": "DaraRIM@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:18Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "3981d2f2-7187-4e72-b4ab-51e0e7c59972",
+                "displayName": "Davit VI (CLM-Cambodia)",
+                "email": "DavitVI@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:21Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "73125a00-befb-41a2-bbef-3b444c99de7a",
+                "displayName": "Duangrudee (F&A-MktClaim) Chaisiri",
+                "email": "Duangrudee@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": true,
+            "compromisedDateTime": "2022-05-10T10:57:57Z",
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "39a4a662-25a6-41ec-8cf0-36c03af4cdc9",
+                "displayName": "Eangna You (CLM-Cambodia)",
+                "email": "EangnaYou@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:18Z",
+                    "ipAddress": "116.212.128.92",
+                    "osPlatformDeviceDetails": "Mozilla/4.0 (compatible; ms-office; MSOffice rmj)",
+                    "browser": "Outlook"
+                },
+                {
+                    "eventName": "EmailLinkClicked",
+                    "eventDateTime": "2022-05-10T10:57:22Z",
+                    "ipAddress": "116.212.128.92",
+                    "osPlatformDeviceDetails": "Mozilla/4.0 (compatible; ms-office; MSOffice rmj)",
+                    "browser": "Outlook"
+                },
+                {
+                    "eventName": "AttachmentOpened",
+                    "eventDateTime": "2022-05-10T10:57:57Z",
+                    "ipAddress": "116.212.128.92",
+                    "osPlatformDeviceDetails": "Mozilla/4.0 (compatible; ms-office; MSOffice rmj)",
+                    "browser": "Outlook"
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "826a69cc-4d0d-423f-ad35-b29c064eb105",
+                "displayName": "Ekkarat (Solutions) Chanthawari",
+                "email": "Ekkarat@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:18Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "80cd7813-dfff-479a-9443-15cbf6690158",
+                "displayName": "Ganlayahnee (Consumer 1) Unhajata",
+                "email": "Ganlayahnee@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:18Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "c007b2f0-3aa6-4d86-bcf7-945e227695a2",
+                "displayName": "Hnin Hnin Aye (Myanmar-Sales)",
+                "email": "HninHninAye@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:18Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "7b1f232f-6baf-4fd8-8d6e-2a14ab5972af",
+                "displayName": "Htet Ko Ko Lin (Myanmar-Technical)",
+                "email": "HtetKoKoLin@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:18Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "f75cbcde-e102-4906-b0cf-e7613248e85d",
+                "displayName": "Jedsada (IOT) Yimkeitiwong",
+                "email": "Jedsada@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:18Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "101c27b2-19c1-4438-86a7-9e6c5298ee36",
+                "displayName": "Jutamas (Sales-SI) Sae Aue",
+                "email": "Jutamas@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:18Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "9ca09976-8d3a-4080-a5de-6e488c1de630",
+                "displayName": "Jutathip (Solutions) Thongyungyuen",
+                "email": "Jutathip@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "d1a42827-bf4c-43c5-a7af-b305bc45f13f",
+                "displayName": "Kanchalee (F&A-Collection) Chimmusi",
+                "email": "Kanchalee@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "7d49de46-a3cf-41e3-aab7-e0948e355b91",
+                "displayName": "Kaniknun (Huawei) Chaiyo",
+                "email": "Kaniknun@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "1c78cd5e-fe0f-4238-a6d6-abc8109a221f",
+                "displayName": "Kanokwan (F&A-Credit) Thongwan",
+                "email": "Kanokwan@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:21Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "61f78821-fd5b-4bac-bd21-aac259dbfebc",
+                "displayName": "Kanokwan (Solutions) Jetsadapongpakdee",
+                "email": "Kanokwan_J@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "1684ffe8-44e6-48d9-81c6-b49fdb70d080",
+                "displayName": "Kanyanatch (Adobe) Wiriyapong",
+                "email": "Kanyanatch@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:22Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "c599fc7a-ed53-46f8-914f-f754e0b2e9e6",
+                "displayName": "Kasemsri (Sales-Retail) Pichayasoot",
+                "email": "Kasemsri@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "b9661a15-ed39-47c8-81dc-1426227ac8a1",
+                "displayName": "Katesaraporn (Sales-Corp1)  Rirkamate",
+                "email": "Katesaraporn@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:21Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "4de04b17-c08f-491b-8b33-7d6e16e3d333",
+                "displayName": "Khin Lay Mon (Myanmar-Product)",
+                "email": "KhinLayMon@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "3d5fb601-578d-4402-8c07-82e062ab2c81",
+                "displayName": "Khin May Zin Tun (Myanmar-Product)",
+                "email": "KhinMayZinTun@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "216e8b63-dd2a-4d0c-b15f-787378484431",
+                "displayName": "Khin Saw Phyu (Myanmar-Veritas)",
+                "email": "KhinSawPhyu@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "c1cf9e28-0bf6-4da7-bb2f-6a7f3fa68faf",
+                "displayName": "Khine Yee Mon (Myanmar-Product)",
+                "email": "KhineYeeMon@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "6cfe7cbd-fd7b-4fa3-b158-64c80bca710d",
+                "displayName": "Kimhav Hong (CLM-Cambodia)",
+                "email": "KimhavHong@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "89cc1e3d-0397-4e36-a051-83eff088f0ea",
+                "displayName": "Kiriroth CHAN (CLM-Cambodia)",
+                "email": "KirirothCHAN@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "8efa2df5-9476-401a-abc5-7632b0b6caf6",
+                "displayName": "Kittipan (Solutions) Chokanankun",
+                "email": "Kittipan@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": true,
+            "compromisedDateTime": "2022-05-11T01:47:26Z",
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "e0822b8f-c0e6-4b8e-bcf0-1d7eadccc4f2",
+                "displayName": "Kittipong (Apple Product) Aketatsanawan",
+                "email": "Kittipong@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:19Z",
+                    "ipAddress": "223.27.207.34",
+                    "osPlatformDeviceDetails": "Mozilla/4.0 (compatible; ms-office; MSOffice rmj)",
+                    "browser": "Outlook"
+                },
+                {
+                    "eventName": "EmailLinkClicked",
+                    "eventDateTime": "2022-05-11T01:46:55Z",
+                    "ipAddress": "223.27.207.34",
+                    "osPlatformDeviceDetails": "Mozilla/4.0 (compatible; ms-office; MSOffice rmj)",
+                    "browser": "Outlook"
+                },
+                {
+                    "eventName": "AttachmentOpened",
+                    "eventDateTime": "2022-05-11T01:47:26Z",
+                    "ipAddress": "223.27.207.34",
+                    "osPlatformDeviceDetails": "Mozilla/4.0 (compatible; ms-office; MSOffice rmj)",
+                    "browser": "Outlook"
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "2d3a1e7b-3e91-461f-b005-1390a3830a4f",
+                "displayName": "Komkit (Product Sales) Maharach",
+                "email": "Komkit@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:20Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "b93625ea-430b-4d68-a849-81402b2fae9c",
+                "displayName": "Korapin (HR) Norasatewanit",
+                "email": "Korapin@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:20Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "13a413df-5f33-4583-be18-043749f22470",
+                "displayName": "Korrawit (MIS) Yunu",
+                "email": "Korrawit@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:20Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "a04ebc7a-d42b-47fa-a6c4-db63f5d41a14",
+                "displayName": "Kritsada (BD North) Kerdsang",
+                "email": "Kritsada@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:20Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": false,
+            "compromisedDateTime": null,
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": "2022-05-10T10:08:14Z",
+            "simulationUser": {
+                "userId": "b33581d4-770c-43c4-844b-db7bf628a81b",
+                "displayName": "Krittaporn (MIS) Ratanavarangkurn",
+                "email": "Krittaporn@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:20Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                },
+                {
+                    "eventName": "ReportedEmail",
+                    "eventDateTime": "2022-05-10T10:08:14Z",
+                    "ipAddress": "",
+                    "osPlatformDeviceDetails": "",
+                    "browser": ""
+                }
+            ],
+            "trainingEvents": []
+        },
+        {
+            "isCompromised": true,
+            "compromisedDateTime": "2022-05-10T11:27:54Z",
+            "assignedTrainingsCount": 0,
+            "completedTrainingsCount": 0,
+            "inProgressTrainingsCount": 0,
+            "reportedPhishDateTime": null,
+            "simulationUser": {
+                "userId": "fd422131-8d2c-4c9e-b1d6-6c79f35d6c44",
+                "displayName": "Krittin (IOT) Hongchinnakorn",
+                "email": "Krittin@vstecs.co.th"
+            },
+            "simulationEvents": [
+                {
+                    "eventName": "SuccessfullyDeliveredEmail",
+                    "eventDateTime": "2022-05-10T10:07:20Z",
+                    "ipAddress": "2001:fb1:bd:f5e2:88e9:f6f3:7c49:d42a",
+                    "osPlatformDeviceDetails": "Mozilla/4.0 (compatible; ms-office; MSOffice rmj)",
+                    "browser": "Outlook"
+                },
+                {
+                    "eventName": "EmailLinkClicked",
+                    "eventDateTime": "2022-05-10T11:27:36Z",
+                    "ipAddress": "2001:fb1:bd:f5e2:88e9:f6f3:7c49:d42a",
+                    "osPlatformDeviceDetails": "Mozilla/4.0 (compatible; ms-office; MSOffice rmj)",
+                    "browser": "Outlook"
+                },
+                {
+                    "eventName": "AttachmentOpened",
+                    "eventDateTime": "2022-05-10T11:27:54Z",
+                    "ipAddress": "2001:fb1:bd:f5e2:88e9:f6f3:7c49:d42a",
+                    "osPlatformDeviceDetails": "Mozilla/4.0 (compatible; ms-office; MSOffice rmj)",
+                    "browser": "Outlook"
+                }
+            ],
+            "trainingEvents": []
+        }
+    ]
+}
